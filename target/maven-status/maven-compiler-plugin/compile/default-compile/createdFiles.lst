@@ -1,0 +1,5 @@
+com/webservice/sample/model/Ingredient.class
+com/webservice/sample/model/SampleWSRequest.class
+com/webservice/sample/model/SampleWSResponse.class
+com/webservice/sample/service/SampleWSService.class
+com/webservice/sample/model/Recipe.class
